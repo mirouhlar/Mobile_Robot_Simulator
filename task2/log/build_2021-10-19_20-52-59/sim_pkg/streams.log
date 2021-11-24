@@ -1,0 +1,33 @@
+[0.487s] Invoking command in '/home/asus/Desktop/task1/src/sim_pkg': PYTHONPATH=/home/asus/Desktop/task1/install/sim_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/sim_pkg build --build-base /home/asus/Desktop/task1/build/sim_pkg/build install --prefix /home/asus/Desktop/task1/install/sim_pkg --record /home/asus/Desktop/task1/build/sim_pkg/install.log --single-version-externally-managed
+[0.906s] running egg_info
+[0.907s] creating ../../build/sim_pkg/sim_pkg.egg-info
+[0.908s] writing ../../build/sim_pkg/sim_pkg.egg-info/PKG-INFO
+[0.908s] writing dependency_links to ../../build/sim_pkg/sim_pkg.egg-info/dependency_links.txt
+[0.909s] writing entry points to ../../build/sim_pkg/sim_pkg.egg-info/entry_points.txt
+[0.909s] writing requirements to ../../build/sim_pkg/sim_pkg.egg-info/requires.txt
+[0.909s] writing top-level names to ../../build/sim_pkg/sim_pkg.egg-info/top_level.txt
+[0.911s] writing manifest file '../../build/sim_pkg/sim_pkg.egg-info/SOURCES.txt'
+[0.983s] reading manifest file '../../build/sim_pkg/sim_pkg.egg-info/SOURCES.txt'
+[0.984s] writing manifest file '../../build/sim_pkg/sim_pkg.egg-info/SOURCES.txt'
+[0.985s] running build
+[0.985s] running build_py
+[0.985s] creating /home/asus/Desktop/task1/build/sim_pkg/build
+[0.986s] creating /home/asus/Desktop/task1/build/sim_pkg/build/lib
+[0.986s] creating /home/asus/Desktop/task1/build/sim_pkg/build/lib/sim_pkg
+[0.986s] copying sim_pkg/__init__.py -> /home/asus/Desktop/task1/build/sim_pkg/build/lib/sim_pkg
+[0.986s] running install
+[0.987s] running install_lib
+[0.989s] creating /home/asus/Desktop/task1/install/sim_pkg/lib/python3.8/site-packages/sim_pkg
+[0.989s] copying /home/asus/Desktop/task1/build/sim_pkg/build/lib/sim_pkg/__init__.py -> /home/asus/Desktop/task1/install/sim_pkg/lib/python3.8/site-packages/sim_pkg
+[0.990s] byte-compiling /home/asus/Desktop/task1/install/sim_pkg/lib/python3.8/site-packages/sim_pkg/__init__.py to __init__.cpython-38.pyc
+[0.992s] running install_data
+[0.993s] creating /home/asus/Desktop/task1/install/sim_pkg/share/ament_index
+[0.993s] creating /home/asus/Desktop/task1/install/sim_pkg/share/ament_index/resource_index
+[0.993s] creating /home/asus/Desktop/task1/install/sim_pkg/share/ament_index/resource_index/packages
+[0.994s] copying resource/sim_pkg -> /home/asus/Desktop/task1/install/sim_pkg/share/ament_index/resource_index/packages
+[0.994s] copying package.xml -> /home/asus/Desktop/task1/install/sim_pkg/share/sim_pkg
+[0.994s] running install_egg_info
+[0.996s] Copying ../../build/sim_pkg/sim_pkg.egg-info to /home/asus/Desktop/task1/install/sim_pkg/lib/python3.8/site-packages/sim_pkg-0.0.0-py3.8.egg-info
+[0.998s] running install_scripts
+[1.031s] writing list of installed files to '/home/asus/Desktop/task1/build/sim_pkg/install.log'
+[1.074s] Invoked command in '/home/asus/Desktop/task1/src/sim_pkg' returned '0': PYTHONPATH=/home/asus/Desktop/task1/install/sim_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/sim_pkg build --build-base /home/asus/Desktop/task1/build/sim_pkg/build install --prefix /home/asus/Desktop/task1/install/sim_pkg --record /home/asus/Desktop/task1/build/sim_pkg/install.log --single-version-externally-managed

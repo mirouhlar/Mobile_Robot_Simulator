@@ -1,0 +1,26 @@
+[0.554s] Invoking command in '/home/asus/Desktop/task1/src/sim_pkg': PYTHONPATH=/home/asus/Desktop/task1/install/sim_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/sim_pkg build --build-base /home/asus/Desktop/task1/build/sim_pkg/build install --prefix /home/asus/Desktop/task1/install/sim_pkg --record /home/asus/Desktop/task1/build/sim_pkg/install.log --single-version-externally-managed
+[0.988s] running egg_info
+[0.990s] writing ../../build/sim_pkg/sim_pkg.egg-info/PKG-INFO
+[0.990s] writing dependency_links to ../../build/sim_pkg/sim_pkg.egg-info/dependency_links.txt
+[0.991s] writing entry points to ../../build/sim_pkg/sim_pkg.egg-info/entry_points.txt
+[0.992s] writing requirements to ../../build/sim_pkg/sim_pkg.egg-info/requires.txt
+[0.992s] writing top-level names to ../../build/sim_pkg/sim_pkg.egg-info/top_level.txt
+[1.060s] reading manifest file '../../build/sim_pkg/sim_pkg.egg-info/SOURCES.txt'
+[1.062s] writing manifest file '../../build/sim_pkg/sim_pkg.egg-info/SOURCES.txt'
+[1.062s] running build
+[1.062s] running build_py
+[1.062s] copying sim_pkg/simulator.py -> /home/asus/Desktop/task1/build/sim_pkg/build/lib/sim_pkg
+[1.063s] running install
+[1.064s] running install_lib
+[1.065s] copying /home/asus/Desktop/task1/build/sim_pkg/build/lib/sim_pkg/simulator.py -> /home/asus/Desktop/task1/install/sim_pkg/lib/python3.8/site-packages/sim_pkg
+[1.067s] byte-compiling /home/asus/Desktop/task1/install/sim_pkg/lib/python3.8/site-packages/sim_pkg/simulator.py to simulator.cpython-38.pyc
+[1.071s] running install_data
+[1.071s] running install_egg_info
+[1.074s] removing '/home/asus/Desktop/task1/install/sim_pkg/lib/python3.8/site-packages/sim_pkg-0.0.0-py3.8.egg-info' (and everything under it)
+[1.074s] Copying ../../build/sim_pkg/sim_pkg.egg-info to /home/asus/Desktop/task1/install/sim_pkg/lib/python3.8/site-packages/sim_pkg-0.0.0-py3.8.egg-info
+[1.076s] running install_scripts
+[1.109s] Installing sender script to /home/asus/Desktop/task1/install/sim_pkg/lib/sim_pkg
+[1.110s] Installing simulator script to /home/asus/Desktop/task1/install/sim_pkg/lib/sim_pkg
+[1.110s] Installing subscriber script to /home/asus/Desktop/task1/install/sim_pkg/lib/sim_pkg
+[1.110s] writing list of installed files to '/home/asus/Desktop/task1/build/sim_pkg/install.log'
+[1.149s] Invoked command in '/home/asus/Desktop/task1/src/sim_pkg' returned '0': PYTHONPATH=/home/asus/Desktop/task1/install/sim_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/sim_pkg build --build-base /home/asus/Desktop/task1/build/sim_pkg/build install --prefix /home/asus/Desktop/task1/install/sim_pkg --record /home/asus/Desktop/task1/build/sim_pkg/install.log --single-version-externally-managed

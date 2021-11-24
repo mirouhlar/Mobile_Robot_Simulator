@@ -1,0 +1,5 @@
+[console_scripts]
+sender = sim_pkg.map_publish:main
+simulator = sim_pkg.simulator:main
+subscriber = sim_pkg.map_subscribe:main
+

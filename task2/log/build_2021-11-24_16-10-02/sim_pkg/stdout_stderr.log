@@ -1,0 +1,31 @@
+running egg_info
+writing ../../build/sim_pkg/sim_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/sim_pkg/sim_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/sim_pkg/sim_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/sim_pkg/sim_pkg.egg-info/requires.txt
+writing top-level names to ../../build/sim_pkg/sim_pkg.egg-info/top_level.txt
+reading manifest file '../../build/sim_pkg/sim_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/sim_pkg/sim_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+copying sim_pkg/map_subscribe.py -> /home/asus/Desktop/GIT_tasks/NMVR/task2/build/sim_pkg/build/lib/sim_pkg
+copying sim_pkg/simulator.py -> /home/asus/Desktop/GIT_tasks/NMVR/task2/build/sim_pkg/build/lib/sim_pkg
+copying sim_pkg/map_publish.py -> /home/asus/Desktop/GIT_tasks/NMVR/task2/build/sim_pkg/build/lib/sim_pkg
+running install
+running install_lib
+copying /home/asus/Desktop/GIT_tasks/NMVR/task2/build/sim_pkg/build/lib/sim_pkg/map_subscribe.py -> /home/asus/Desktop/GIT_tasks/NMVR/task2/install/sim_pkg/lib/python3.8/site-packages/sim_pkg
+copying /home/asus/Desktop/GIT_tasks/NMVR/task2/build/sim_pkg/build/lib/sim_pkg/simulator.py -> /home/asus/Desktop/GIT_tasks/NMVR/task2/install/sim_pkg/lib/python3.8/site-packages/sim_pkg
+copying /home/asus/Desktop/GIT_tasks/NMVR/task2/build/sim_pkg/build/lib/sim_pkg/map_publish.py -> /home/asus/Desktop/GIT_tasks/NMVR/task2/install/sim_pkg/lib/python3.8/site-packages/sim_pkg
+byte-compiling /home/asus/Desktop/GIT_tasks/NMVR/task2/install/sim_pkg/lib/python3.8/site-packages/sim_pkg/map_subscribe.py to map_subscribe.cpython-38.pyc
+byte-compiling /home/asus/Desktop/GIT_tasks/NMVR/task2/install/sim_pkg/lib/python3.8/site-packages/sim_pkg/simulator.py to simulator.cpython-38.pyc
+byte-compiling /home/asus/Desktop/GIT_tasks/NMVR/task2/install/sim_pkg/lib/python3.8/site-packages/sim_pkg/map_publish.py to map_publish.cpython-38.pyc
+running install_data
+copying package.xml -> /home/asus/Desktop/GIT_tasks/NMVR/task2/install/sim_pkg/share/sim_pkg
+running install_egg_info
+removing '/home/asus/Desktop/GIT_tasks/NMVR/task2/install/sim_pkg/lib/python3.8/site-packages/sim_pkg-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/sim_pkg/sim_pkg.egg-info to /home/asus/Desktop/GIT_tasks/NMVR/task2/install/sim_pkg/lib/python3.8/site-packages/sim_pkg-0.0.0-py3.8.egg-info
+running install_scripts
+Installing sender script to /home/asus/Desktop/GIT_tasks/NMVR/task2/install/sim_pkg/lib/sim_pkg
+Installing simulator script to /home/asus/Desktop/GIT_tasks/NMVR/task2/install/sim_pkg/lib/sim_pkg
+Installing subscriber script to /home/asus/Desktop/GIT_tasks/NMVR/task2/install/sim_pkg/lib/sim_pkg
+writing list of installed files to '/home/asus/Desktop/GIT_tasks/NMVR/task2/build/sim_pkg/install.log'

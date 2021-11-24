@@ -1,0 +1,23 @@
+[0.477s] Invoking command in '/home/asus/Desktop/task1/src/sim_pkg': PYTHONPATH=/home/asus/Desktop/task1/install/sim_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/sim_pkg build --build-base /home/asus/Desktop/task1/build/sim_pkg/build install --prefix /home/asus/Desktop/task1/install/sim_pkg --record /home/asus/Desktop/task1/build/sim_pkg/install.log --single-version-externally-managed
+[0.880s] running egg_info
+[0.881s] writing ../../build/sim_pkg/sim_pkg.egg-info/PKG-INFO
+[0.881s] writing dependency_links to ../../build/sim_pkg/sim_pkg.egg-info/dependency_links.txt
+[0.882s] writing entry points to ../../build/sim_pkg/sim_pkg.egg-info/entry_points.txt
+[0.882s] writing requirements to ../../build/sim_pkg/sim_pkg.egg-info/requires.txt
+[0.882s] writing top-level names to ../../build/sim_pkg/sim_pkg.egg-info/top_level.txt
+[0.957s] reading manifest file '../../build/sim_pkg/sim_pkg.egg-info/SOURCES.txt'
+[0.959s] writing manifest file '../../build/sim_pkg/sim_pkg.egg-info/SOURCES.txt'
+[0.959s] running build
+[0.960s] running build_py
+[0.961s] running install
+[0.961s] running install_lib
+[0.965s] running install_data
+[0.967s] running install_egg_info
+[0.969s] removing '/home/asus/Desktop/task1/install/sim_pkg/lib/python3.8/site-packages/sim_pkg-0.0.0-py3.8.egg-info' (and everything under it)
+[0.972s] Copying ../../build/sim_pkg/sim_pkg.egg-info to /home/asus/Desktop/task1/install/sim_pkg/lib/python3.8/site-packages/sim_pkg-0.0.0-py3.8.egg-info
+[0.972s] running install_scripts
+[1.002s] Installing sender script to /home/asus/Desktop/task1/install/sim_pkg/lib/sim_pkg
+[1.003s] Installing simulator script to /home/asus/Desktop/task1/install/sim_pkg/lib/sim_pkg
+[1.003s] Installing subscriber script to /home/asus/Desktop/task1/install/sim_pkg/lib/sim_pkg
+[1.004s] writing list of installed files to '/home/asus/Desktop/task1/build/sim_pkg/install.log'
+[1.040s] Invoked command in '/home/asus/Desktop/task1/src/sim_pkg' returned '0': PYTHONPATH=/home/asus/Desktop/task1/install/sim_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/sim_pkg build --build-base /home/asus/Desktop/task1/build/sim_pkg/build install --prefix /home/asus/Desktop/task1/install/sim_pkg --record /home/asus/Desktop/task1/build/sim_pkg/install.log --single-version-externally-managed

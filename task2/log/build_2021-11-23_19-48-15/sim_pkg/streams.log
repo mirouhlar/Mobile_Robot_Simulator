@@ -1,0 +1,26 @@
+[0.516s] Invoking command in '/home/asus/Desktop/task2/NMVR-main/task1/src/sim_pkg': PYTHONPATH=/home/asus/Desktop/task2/NMVR-main/task1/install/sim_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/sim_pkg build --build-base /home/asus/Desktop/task2/NMVR-main/task1/build/sim_pkg/build install --prefix /home/asus/Desktop/task2/NMVR-main/task1/install/sim_pkg --record /home/asus/Desktop/task2/NMVR-main/task1/build/sim_pkg/install.log --single-version-externally-managed
+[0.940s] running egg_info
+[0.941s] writing ../../build/sim_pkg/sim_pkg.egg-info/PKG-INFO
+[0.942s] writing dependency_links to ../../build/sim_pkg/sim_pkg.egg-info/dependency_links.txt
+[0.942s] writing entry points to ../../build/sim_pkg/sim_pkg.egg-info/entry_points.txt
+[0.943s] writing requirements to ../../build/sim_pkg/sim_pkg.egg-info/requires.txt
+[0.943s] writing top-level names to ../../build/sim_pkg/sim_pkg.egg-info/top_level.txt
+[1.014s] reading manifest file '../../build/sim_pkg/sim_pkg.egg-info/SOURCES.txt'
+[1.015s] writing manifest file '../../build/sim_pkg/sim_pkg.egg-info/SOURCES.txt'
+[1.016s] running build
+[1.016s] running build_py
+[1.016s] copying sim_pkg/simulator.py -> /home/asus/Desktop/task2/NMVR-main/task1/build/sim_pkg/build/lib/sim_pkg
+[1.017s] running install
+[1.018s] running install_lib
+[1.020s] copying /home/asus/Desktop/task2/NMVR-main/task1/build/sim_pkg/build/lib/sim_pkg/simulator.py -> /home/asus/Desktop/task2/NMVR-main/task1/install/sim_pkg/lib/python3.8/site-packages/sim_pkg
+[1.021s] running install_data
+[1.021s] copying package.xml -> /home/asus/Desktop/task2/NMVR-main/task1/install/sim_pkg/share/sim_pkg
+[1.022s] running install_egg_info
+[1.024s] removing '/home/asus/Desktop/task2/NMVR-main/task1/install/sim_pkg/lib/python3.8/site-packages/sim_pkg-0.0.0-py3.8.egg-info' (and everything under it)
+[1.025s] Copying ../../build/sim_pkg/sim_pkg.egg-info to /home/asus/Desktop/task2/NMVR-main/task1/install/sim_pkg/lib/python3.8/site-packages/sim_pkg-0.0.0-py3.8.egg-info
+[1.027s] running install_scripts
+[1.060s] Installing sender script to /home/asus/Desktop/task2/NMVR-main/task1/install/sim_pkg/lib/sim_pkg
+[1.060s] Installing simulator script to /home/asus/Desktop/task2/NMVR-main/task1/install/sim_pkg/lib/sim_pkg
+[1.060s] Installing subscriber script to /home/asus/Desktop/task2/NMVR-main/task1/install/sim_pkg/lib/sim_pkg
+[1.061s] writing list of installed files to '/home/asus/Desktop/task2/NMVR-main/task1/build/sim_pkg/install.log'
+[1.101s] Invoked command in '/home/asus/Desktop/task2/NMVR-main/task1/src/sim_pkg' returned '0': PYTHONPATH=/home/asus/Desktop/task2/NMVR-main/task1/install/sim_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/sim_pkg build --build-base /home/asus/Desktop/task2/NMVR-main/task1/build/sim_pkg/build install --prefix /home/asus/Desktop/task2/NMVR-main/task1/install/sim_pkg --record /home/asus/Desktop/task2/NMVR-main/task1/build/sim_pkg/install.log --single-version-externally-managed
